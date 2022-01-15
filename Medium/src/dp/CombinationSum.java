@@ -1,5 +1,8 @@
 package dp;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class CombinationSum {
 	
 	public int combinationSum4(int[] nums, int target) {
